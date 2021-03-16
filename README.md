@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kerimkoca
 - 👀 I’m interested in crypto
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning cryptotab
+- 💞️ I’m looking to collaborate on cryptotabbrowser.com 
 - 📫 How to reach me ...
 
 <!---
